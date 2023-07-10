@@ -1,0 +1,10 @@
+body{
+    background-color: rgba(170, 70, 70, 0.699);
+    border: 2px;
+    width: 400;
+}
+div>img{width: 100px; height: 100px;}
+div b{color: white;}
+p{
+    color: black;
+}
