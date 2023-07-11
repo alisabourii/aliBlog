@@ -1,10 +1,23 @@
 body{
-    background-color: rgba(170, 70, 70, 0.699);
+    background-color: rgba(27, 24, 24, 0.699);
     border: 2px;
     width: 400;
 }
+
+b:hover{
+    background-color: rgba(255, 0, 0, 0.568);
+    color: black;
+}
+
 div>img{width: 100px; height: 100px;}
 div b{color: white;}
-p{
-    color: black;
+a:hover{
+    color: rgb(255, 0, 0);
+}
+
+#mail:focus{
+    background-color: tomato;
+}
+#pass:focus{
+    background-color: tomato;
 }
